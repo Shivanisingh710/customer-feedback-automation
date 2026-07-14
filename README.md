@@ -97,6 +97,8 @@ The workflow includes:
   - Complaint keywords
   - Lowest customer rating
   - Longest review length
+ 
+**The `Summary` column was used to identify and prioritize critical reviews through complaint keyword analysis, while the `Text` column was used as input to the Large Language Model (LLM) for generating personalized apology emails.**
 ---
 
 ## Generative AI
